@@ -1,0 +1,78 @@
+
+
+
+body{
+    background-color: #d9d9d9;
+}
+.navbar{
+    background-color: #1e2724;
+    font-size: 1rem;
+    
+}
+
+.navbar{
+
+    font-size: 12px;
+color: white ;
+
+}
+.nav .secondary_nav{
+
+    width: 20%;
+    background-color: black;
+   
+}
+
+.navbar > img{
+    margin-left: 20%;
+}
+
+.navbar> .navbar-toggler> span{
+    
+}
+
+
+/* Carrousel */
+
+.Highlights{
+    
+    width:60%;
+    margin-left: 20%;
+    border-bottom: solid 1px gray;
+    height: 32px;
+    text-align: left;
+}
+
+.carousel{
+
+width: 80%;
+margin-left:11%;
+}
+
+.carousel > .carousel-inner{
+
+padding: 7%;
+padding-top:10px;
+
+}
+
+body > .container .cards{
+    margin-left: 50%;
+    width: 12rem;
+    height:100px;
+}
+
+body > .container .cards> .card{
+
+    height:70%;
+}
+
+.container-fluid{
+    border-bottom: solid 1px gray;
+    border-top: solid 1px gray;
+}
+
+.container-fluid> .row + .we_are_GOG{
+    padding:0;
+    margin-right:200px;
+}
